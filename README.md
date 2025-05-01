@@ -1,3 +1,5 @@
+![Heart Disease Prediction Banner](banner.png)
+
 # 🧠 Decision Trees & Random Forests – Heart Disease Prediction
 
 This project is part of an AI & ML internship task where I explored tree-based models to classify heart disease presence using a real-world dataset. I went beyond just model training and tried to understand *how* and *why* these models make decisions.
